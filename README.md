@@ -1,4 +1,4 @@
-# Marketing-Analysis---TV
+# Marketing-Analysis-TV
 Review information collected from consumer reports regarding TV products. In the perspective of Panasonic, analyze the data and provide recommendations for it to increase sales. 
 
 1. Where does Panasonic stand in each feature (each user rating category) relative to competitors?
