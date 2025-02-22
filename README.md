@@ -32,4 +32,4 @@ Key Questions to Consider:
 
 References:
 
-Data and prompts are adapted from *MSIS 521 – Information Technologies and Marketing*, by Professor Yong Tan at the University of Washington. https://foster.uw.edu/faculty-research/directory/yong-tan/
+Data and prompts are adapted from *MSIS 521 – Information Technologies and Marketing*, taught by Professor Yong Tan at the University of Washington. https://foster.uw.edu/faculty-research/directory/yong-tan/
