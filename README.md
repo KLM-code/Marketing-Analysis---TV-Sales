@@ -2,7 +2,7 @@
 
 Two examples of leveraging data to generate valuable business insights for data-driven decision-making.
 
-# Panasonic TV Sales Analysis
+# Panasonic TV Sales
 
 In the `PanasonicTV.ipynb` file, we review consumer report data on TV products. From Panasonic’s perspective, we analyze the data and provide recommendations that could help increase sales.
 
@@ -25,6 +25,10 @@ Key Questions to Consider:
 - The company believes that its global audience (targeted through Google Global, MSN Global, and Yahoo Global) does not purchase its top-of-the-line products. Should they continue investing in advertising to a global audience? What do you recommend?
 - Should the company’s search-side strategies differ for the U.S. audience versus the global audience?
 - What strategies would you suggest to improve performance for each publisher?
+
+
+
+
 
 References:
 
