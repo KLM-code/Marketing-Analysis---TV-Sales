@@ -20,11 +20,11 @@ In the `ad_strategy_optimization.ipynb` file, we examine a company's ad investme
 
 Key Questions to Consider:
 
-**From the publisher’s perspective:**
+*From the publisher’s perspective:*
 
 - Does Google need improvements in search-side copy? Does Yahoo need improvements in website-side copy?
 
-**From the company’s perspective:**
+*From the company’s perspective:*
 
 - The company expects that exact-match and phrase-match keywords will provide a higher ROA compared to broad-match keywords. As they update their strategy, they are considering bidding only on exact and phrase-match keywords. Is this a good decision?
 - The company believes that its global audience (targeted through Google Global, MSN Global, and Yahoo Global) does not purchase its top-of-the-line products. Should they continue investing in advertising to a global audience? What do you recommend?
