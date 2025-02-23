@@ -16,7 +16,7 @@ Key Questions to Consider:
 
 # Advertising Strategy Optimization
 
-In the `ad_strategy_optimization.ipynb` file, we examine a company's ad investment data across various publishers and offer recommendations to enhance advertising strategies and maximize ROI.
+In the `AdvertisingOptimization.ipynb` file, we examine a company's ad investment data across various publishers and offer recommendations to enhance advertising strategies and maximize ROI.
 
 Key Questions to Consider:
 
